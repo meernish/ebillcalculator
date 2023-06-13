@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewCopyright" type="id" />
+    <item name="textViewStudentDetails" type="id" />
+    <item name="textViewAppWebsite" type="id" />
+    <item name="websiteTextView" type="id" />
+</resources>
